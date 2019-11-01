@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="trang">#FFFF</color>
+    <color name="tim">#8958FF</color>
+    <color name="linexanh">#0DF0A1</color>
+    <color name="xanhden">#242843</color>
+    <color name="xam">#E5E6EA</color>
+    <color name="btnadd">#00B9B5</color>
+    <color name="cam">#FF9327</color>
+    <color name="vang">#FFC20C</color>
+    <color name="maudo">#FF3D1B</color>
+    <color name="xanhproduct">#303558</color>
+    <color name="nen">#FFE6D8</color>
+    <color name="xanhnuoc">#00A7FF</color>
+    <color name="boder">#8C08ED</color>
+    <color name="xam1">#BAC8F3</color>
+    <color name="maudosam">#A51E05</color>
+    <color name="trangxam">#9B9999</color>
+</resources>
